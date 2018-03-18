@@ -6,7 +6,7 @@ Our website provides a platform for the students to know about the scenario or t
 -Students in need of medical care can find out which doctors along with their specialization are present in the college dispensary.
 -Our website also informs the students about the upcoming events and the important news feed related to examinations and other important notices.
 
-Our project is based on MYSQL and IBM Cloud does not provide free services for MYSQL based projects. Hence we could not use IBM Cloud in this project.
+In order to use certain services, we have created a repository of our project on IBM Cloud and further devox can be used to pipeline and migrate the project to bluemis.net.
 
 Platform Dependencies:
 WAMP Server which is the Apache MYSQL-PHP stack in order to run the backend on PHP and manage MySQL and the UX.
